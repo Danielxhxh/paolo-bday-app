@@ -5,7 +5,7 @@
 
     <div v-show="pressed">
       <img
-        src="images/cool_paolo_pic.png"
+        src="/images/cool_paolo_pic.png"
         alt="cool paolo pic"
         style="height: 350px"
       />
